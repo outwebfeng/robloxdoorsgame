@@ -35,6 +35,7 @@ header {
     text-align: center;
     color: white;
     position: relative;
+    padding-top: 80px; /* 添加这一行 */
 }
 .hero::after {
     content: '';
@@ -177,6 +178,9 @@ footer {
     }
     section h2 {
         font-size: 2rem;
+    }
+    .hero {
+        padding-top: 130px; /* 添加这一行 */
     }
 }
 
