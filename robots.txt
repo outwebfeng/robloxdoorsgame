@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /s/robloxdoors.fun/
+
+User-agent: *
+Disallow: /s/robloxdoors.fun/
+
